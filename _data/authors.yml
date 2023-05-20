@@ -67,12 +67,11 @@ author2:
   name:              <firtname> <lastname>
   email:             <mail@domain.tld>
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    안녕하세요! Steveve14입니다. 저는 다양한 프로그래밍 언어와 기술을 활용하여 
+    문제를 해결하고 혁신적인 솔루션을 제공하는 프로그래머입니다.
+    소프트웨어 개발에 대한 열정과 경험을 통해 사용자 요구 사항을 충족시키는 유지보수 
+    가능한 코드를 작성하는 것에 주력하고 있습니다.
 
-    Open `_data/authors.yml` to edit this text.
-
-  picture:           https://placehold.it/128x128
+  picture:           /assets/img/me.jpg
   twitter:           <username>
   github:            <username>
