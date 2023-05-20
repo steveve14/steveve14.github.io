@@ -17,18 +17,19 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  kr
+lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Steveve14
+title:                 Starter Kit
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:          >
-  Steveve14의 포트폴리오 입니다. 
+description:           >
+  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
+  with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Steveve14의 포트폴리오 입니다.
+tagline:               Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
 keywords:              []
@@ -66,7 +67,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             짤 2021. All rights reserved.
+copyright:             © 2021. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -79,8 +80,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
@@ -274,7 +275,7 @@ hydejack:
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
 
-  # ?∽? DANGER ZONE ?∽?
+  # ⚡️ DANGER ZONE ⚡️
   # ----------------
   # This is an _experimental_ feature.
   # Only use if you know what Service Workers are and how they can impact your site!
