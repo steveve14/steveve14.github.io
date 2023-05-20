@@ -24,8 +24,8 @@ title:                 Steveve14
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:          
-  Steveve14의 포트폴리오 입니다. >
+description:          >
+  Steveve14의 포트폴리오 입니다. 
 
 # A shorter description for the sidebar.
 tagline:               Steveve14의 포트폴리오 입니다.
